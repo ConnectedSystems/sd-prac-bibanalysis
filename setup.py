@@ -4,7 +4,7 @@ from setuptools import setup
 if __name__ == "__main__":
     setup(
         name='Biblio',
-        version='0.1.dev0',
+        version='0.1.1',
         description='Repository holding analysis process used to collect data and figures for a paper on \
                      software best practices in Integrated Environmental Modeling',
         long_description=open('README.md').read(),
