@@ -1,6 +1,8 @@
 Web of Science analysis process used to collect data and create figures for a paper on software best practices in
 Integrated Environmental Modeling.
 
+[![DOI](https://zenodo.org/badge/155661161.svg)](https://zenodo.org/badge/latestdoi/155661161)
+
 For the moment it is probably best clone and install:
 
 ```bash
