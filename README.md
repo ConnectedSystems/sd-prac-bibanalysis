@@ -7,7 +7,6 @@ For the moment it is probably best clone and install:
 
 ```bash
 $ git clone https://github.com/ConnectedSystems/sd-prac-bibanalysis.git
-
 $ cd sd-prac-bibanalysis
 $ python setup.py develop
 ```
