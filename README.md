@@ -11,6 +11,8 @@ $ cd sd-prac-bibanalysis
 $ python setup.py develop
 ```
 
+Full use requires access to the Web of Science Premium API.
+
 Key dependencies include:
 
 * WOS Client, a SOAP-based client for Web of Science, developed by E. Bacis [@enricobacis](https://github.com/enricobacis)
