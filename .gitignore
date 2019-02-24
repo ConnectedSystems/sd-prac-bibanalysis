@@ -64,3 +64,5 @@ notebooks/tmp/
 notebooks/data/
 
 notebooks/\.ipynb_checkpoints/
+
+config/
